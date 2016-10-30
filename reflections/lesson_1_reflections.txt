@@ -1,0 +1,7 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+mostrará as diferenças entre os arquivos e portanto as alterações poderão ser melhor percebidas
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+novas linhas 2
